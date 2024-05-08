@@ -1,0 +1,45 @@
+
+table#board {
+
+  background-color: black;
+
+}
+
+
+table#board td {
+
+  width: 30px;
+
+  height: 30px;
+
+  background-color: green;
+
+  padding: 5px;
+
+}
+
+
+div.black {
+
+  background-color: black;
+
+  width: 30px;
+
+  height: 30px;
+
+  border-radius: 50%;
+
+}
+
+
+div.white {
+
+  background-color: white;
+
+  width: 30px;
+
+  height: 30px;
+
+  border-radius: 50%;
+
+}
